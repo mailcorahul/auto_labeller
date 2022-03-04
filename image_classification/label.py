@@ -21,4 +21,4 @@ if __name__ == '__main__':
         args.unlabelled_dump,
         args.result_dump
     )
-    labeler.label_data()
+    labeler.label_images()
